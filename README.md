@@ -4,12 +4,12 @@ Simple loading spinners animated with CSS. See [demo](http://tobiasahlin.com/spi
 
 ## Usage
 ## How to use js
-`` //Preloder js start
+``` //Preloder js start
 	jQuery(window).load(function(){
 		jQuery(".preloader-wrapper").fadeOut(1000);
 	});
 	//Preloder js end
-``
+```
 ### Regular CSS
 
 Grab the HTML and CSS for a spinner from the example files, or add SpinKit directly to your project with `bower`:
