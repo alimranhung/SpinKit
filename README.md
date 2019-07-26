@@ -9,7 +9,7 @@ Simple loading spinners animated with CSS. See [demo](http://tobiasahlin.com/spi
 	jQuery(window).load(function(){
 		jQuery(".your text").fadeOut(1000);
 	});
-	//Preloder js end
+//Preloder js end
 ```
 ### Regular CSS
 
