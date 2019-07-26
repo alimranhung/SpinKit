@@ -4,9 +4,10 @@ Simple loading spinners animated with CSS. See [demo](http://tobiasahlin.com/spi
 
 ## Usage
 ## How to use js
-``` //Preloder js start
+``` 
+//Preloder js start
 	jQuery(window).load(function(){
-		jQuery(".preloader-wrapper").fadeOut(1000);
+		jQuery(".your text").fadeOut(1000);
 	});
 	//Preloder js end
 ```
