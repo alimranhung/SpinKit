@@ -15,7 +15,7 @@ Simple loading spinners animated with CSS. See [demo](http://tobiasahlin.com/spi
           </div>
     </div>
 <!--Preloder Effect end-->
-``
+```
 
 ## How to use css
 ```
